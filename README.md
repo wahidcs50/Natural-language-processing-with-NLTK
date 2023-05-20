@@ -43,3 +43,5 @@ Join the NLTK community to ask questions, share ideas, and get support. Here are
 
 NLTK is developed and maintained by a team of contributors. We would like to thank all the individuals and organizations that have contributed to the project.
 
+# News sentiment analysis with NLTK
+![My Image](ggg.PNG)
